@@ -54,5 +54,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_XNA",
     "name": "Microsoft XNA",
     "type": "app"
+  },
+  {
+    "dateClose": "2020-07-22",
+    "dateOpen": "2016-01-05",
+    "description": "Mixer was a video game live streaming platform. The service carried an emphasis on interactivity, with low stream latency and a platform for allowing viewers to perform actions that can influence a stream.",
+    "link": "https://blog.mixer.com/2020/06/22/the-next-step-for-mixer/",
+    "name": "Mixer",
+    "type": "service"
   }
 ]

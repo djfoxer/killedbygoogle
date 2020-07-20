@@ -2,7 +2,7 @@
   {
     "dateClose": "2020-05-01",
     "dateOpen": "2015-06-02",
-    "description": "Wunderlist was a cloud-based task management application. It allows users to manage their tasks from a smartphone, tablet, computer and smartwatch. Wunderlist was free; additional collaboration features were available in a paid version known as Wunderlist Pro (released April 2013). Wunderlist was created in 2011 by Berlin-based startup 6Wunderkinder. It was aquired by Microsoft in June 2015, at which time the app had over 13 million users. In April 2017, Microsoft announced that Wunderlist will eventually be discontinued in favor of To-Do, a new multi-platform app developed by the Wunderlist team that has direct integration with the company's Office 365 service.",
+    "description": "Wunderlist was a cloud-based task management application. It allows users to manage their tasks from a smartphone, tablet, computer and smartwatch. Wunderlist was free; additional collaboration features were available in a paid version known as Wunderlist Pro (released April 2013). Wunderlist was created in 2011 by Berlin-based startup 6Wunderkinder. It was aquired by Microsoft in June 2015, at which time the app had over 13 million users.",
     "link": "https://www.wunderlist.com/blog/join-us-on-our-new-journey/",
     "name": "Wunderlist",
     "type": "service"

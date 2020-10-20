@@ -93,7 +93,7 @@ export default () => (
             &nbsp;from around the world help compile, research, and maintain the
             information about dying and dead Microsoft products. You can join the
             discussion on&nbsp;
-            <a href="https://github.com/djofxer/killedbymicrosoft">GitHub</a>, or
+            <a href="https://github.com/djfoxer/killedbymicrosoft">GitHub</a>, or
             follow us on&nbsp;
             <a href="https://twitter.com/djfoxer">Twitter</a>. A project
             by&nbsp;
